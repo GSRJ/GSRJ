@@ -9,7 +9,7 @@
  </p>
         <p><b>-🌎 Nível de inglês: </b>Pré-avançado, me aperfeiçoando de forma autodidata. <i> - I can speak, read, write, but I need to improve my vocabulary.</i> </p>
         <p><b>-📝 Curso Tech</b>: Desenvolvedor FullStack certificado pela <a href="https://kenzie.com.br/quem-somos?utm_medium=google-ads&campaignid=15853756022&device=c&creative=648094279880&adgroupid=137371409172&gclid=CjwKCAjwh8mlBhB_EiwAsztdBFeRHITtzeemboyiRbtiWO7pDsD4ROM26MhVPuE3LjyoxLvbRIobOhoCiCEQAvD_BwE&utm_term=kenzie%20academy&gad=1&utm_source=adwords&utm_campaign=%5BMQL%5DINSC-PER-2022-TERMOS-MARCA-SEARCH">Kenzie Academy Brazil</a> </p>
-        <p><b>-🎓Formação:</b> Direito. <i>Valorizo profundamente a experiência adquirida e o impacto que a formação teve em minha vida, porém a tecnologia é a minha grande paixão.</i></p>
+        <p><b>-🎓Formação:</b> Direito. <i>-Valorizo profundamente a experiência adquirida e o impacto que a formação teve em minha vida, porém a tecnologia é a minha grande paixão.</i></p>
       </td>
       <td>
       <p><b>- 🤖 Tecnologias que conheço:</b></p>
