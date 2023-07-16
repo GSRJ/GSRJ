@@ -19,4 +19,4 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSRJ&hide=stars,issues,contribs&show=reviews,discussions_started,discussions_answered)](https://github.com/anuraghazra/github-readme-stats)--!>
 
-![Snake animation](https://github.com/GSRJ/blob/output/github-contibuition-grid-snake.svg)
+![snake gif](https://github.com/gsrj/gsrj/blob/output/github-contribution-grid-snake.svg)
