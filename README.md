@@ -19,7 +19,6 @@
 <a href="https://github.com/GSRJ"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 <a href="https://github.com/GSRJ"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
 <a href="https://github.com/GSRJ"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <a href="https://github.com/GSRJ"><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
 <a href="https://github.com/GSRJ"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://github.com/GSRJ"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
